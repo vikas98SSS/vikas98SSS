@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Dhakad</h1>
-<h3 align="center">An Enthusiastic Data Analyst from Gwalior, India</h3>
+<h3 align="center">An Enthusiast Data Analyst from Gwalior, India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikas98SSS](https://github.com/vikas98SSS)
 
